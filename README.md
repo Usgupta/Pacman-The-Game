@@ -12,4 +12,6 @@ Instructions:
 7. Use the W, A, S, D keys and press enter in the terminal to move the turtle.
 8. To win, avoid the ghosts, eat all the mints and exit the maze.
 9. Enjoy the game :)
+
+Or, watch the game here-
 https://www.youtube.com/watch?v=qLwOuD3qOXs
