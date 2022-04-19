@@ -1,7 +1,7 @@
 # Pacman-The-Game
 Instructions:
 
-1. Open up terminal on your computer. 
+1. Open up terminal or comand prompt on your computer. 
 2. Navigate to the folder which contains the file you have downloaded. 
 (e.g. cd Desktop)
 3. Open up the file using python.
