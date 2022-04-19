@@ -14,4 +14,4 @@ Instructions:
 9. Enjoy the game :)
 
 Or, watch the game here-
-https://www.youtube.com/watch?v=qLwOuD3qOXs
+https://youtu.be/oMy6eARQdy0
